@@ -1,5 +1,5 @@
-![jumbo Logo](https://raw.githubusercontent.com/neoboot/jumbo/main/assets/logo-white.svg#gh-dark-mode-only)
-![jumbo Logo](https://raw.githubusercontent.com/neoboot/jumbo/main/assets/logo.svg#gh-light-mode-only)
+![jumbo Logo](https://raw.githubusercontent.com/neoboot/jumbo/main/assets/logo-light.svg#gh-dark-mode-only)
+![jumbo Logo](https://raw.githubusercontent.com/neoboot/jumbo/main/assets/logo-dark.svg#gh-light-mode-only)
 
 # Jumbo – Free Bootstrap 5 Startup Product Template
 
